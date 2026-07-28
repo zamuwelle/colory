@@ -1,6 +1,6 @@
 @import "tailwindcss";
 
-.animated-bg {
+body {
 	animation: colorchange 11s infinite;
 }
 
